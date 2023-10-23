@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Addresses": 2
+  },
+  "models": {
+    "Addresses": {
+      "1": "{\"city\":\"string\",\"postcode\":\"string\",\"street\":\"string\",\"number\":\"string\",\"id\":1}"
+    }
+  }
+}
